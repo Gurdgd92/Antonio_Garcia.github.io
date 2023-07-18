@@ -9,23 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here] (https://Antonio_Garcia.github.io/files/CV Antonio Garcia_Zaloa_2023_July.pdf)
+
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.S. Biology, UAEMex, 2015
+* Ph.D. in Guadalajara, Universidad de Guadalajara, 2022
+* Posdoctoral research, UNAM, 2023 a la fecha
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2013: Research Assistant
+  * UNAM University
+  * Duties included: PCR y manejo de ratones Balb/c
+  * Supervisor: Dr. Eduardo Garcia Zepeda
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2016: Thesis
+  * CINVESTAV
+  * Duties included: Inmunohistoquimica y cortes congelados con OCT
+  * Supervisor: Dr. Leopoldo Flores Romo & M.C Juana 
   
 Skills
 ======
