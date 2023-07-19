@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here] (https://Antonio_Garcia.github.io/files/CV Antonio Garcia_Zaloa_2023_July.pdf)
-
-
+[Download CV here] ("https://Antonio_Garcia.github.io/files/CV Antonio Garcia_Zaloa_2023_July.pdf")
 
 Education
 ======
@@ -30,14 +28,6 @@ Work experience
   * Duties included: Inmunohistoquimica y cortes congelados con OCT
   * Supervisor: Dr. Leopoldo Flores Romo & M.C Juana 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======

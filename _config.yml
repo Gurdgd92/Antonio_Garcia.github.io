@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "J Antonio Garcia Espinoza"
-  avatar           : "Profile_JAGE.png"
+  avatar           : "Profike_JAGE.png"
   bio              : "Investigador en inmunologia"
   location         : "UNAM, (CDMX)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "antoniogarcia92@iibiomedicas.unam.mx"
-  researchgate     :  "https://www.researchgate.net/profile/Jose-Garcia-Espinoza" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jose-Garcia-Espinoza" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
