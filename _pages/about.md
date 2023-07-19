@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-**Breve introduccion**
+## Breve introduccion
 
+![Language](/images/The-language.png){: .align-right width="300px"}
 Hola soy Antonio Garcia Espinoza un investigador posdoctoral en la UNAM (Mexico), trabajo en el departamento de Inmunologia del Instituto de Investigaciones Biomedicas. Actualmente mi investigacion se centra en la expansion de celulas aloespecificas in vitro para el tratamiento de pacientes con la necesidad de un trasplante renal. Sin embargo tengo experiencia con temas biologicos como es la autoinmnunidad, immunidad en mucosas como el pulmon o intestino delgado.
 
-[UNAM, Biomedicas] ("https://www.biomedicas.unam.mx")
 
-**Interes cientifico**
+
+[UNAM]("https://www.biomedicas.unam.mx")
+
+## Interes cientifico
 
 Parte de mi vida en la universidad he adquirido una fascinacion por el espacio-tiempo en los sistemas biologicos. Es decir, sabemos que hay miles de proteinas en el cuerpo con una funcion unica, ademas sabemos que estan inmersas en complejos procesos de sintesis y degradacion, sim embargo surgen las preguntas de ¿como? y en en ¿que momento? se debe regular cada uno de estos eventos celulares y como se maneja la informacion en la escala espacio-tiempo durante la homeostasis y la enfermedad.
 
