@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "Mexico"
-title                    : "Antonio Garcia Espinoza"
+title                    : "Antonio's Homepage"
 title_separator          : "-"
-name                     : &name "Dr. Jose Antonio Garcia Espinoza"
-description              : &description "Investigador biomedico interesado en inmunologia basica y traslacional"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Dr. Jose Antonio Garcia Espinoza"
+description              : "Investigador biomedico interesado en inmunologia basica y traslacional"
+url                      : https://gurdgd92.github.io/antonio_garcia.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   name             : "J Antonio Garcia Espinoza"
   avatar           : "profile.png"
   bio              : "Investigador en inmunologia"
-  location         : "UNAM, (CDMX)"
+  location         : "Mexico City"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/Gurdgd92/antonio_garcia.github.io"
   google_plus      :
   keybase          :
   instagram        :
