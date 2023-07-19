@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "J Antonio Garcia Espinoza"
-  avatar           : "Profike_JAGE.png"
+  avatar           : "Profile_git.png"
   bio              : "Investigador en inmunologia"
   location         : "UNAM, (CDMX)"
   employer         :
@@ -244,6 +244,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
+
 
 # Sass/SCSS
 sass:
