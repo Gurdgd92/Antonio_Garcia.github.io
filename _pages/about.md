@@ -10,11 +10,13 @@ redirect_from:
 
 ## Breve introduccion
 
-Hola soy Antonio Garcia Espinoza un investigador posdoctoral en la UNAM (Mexico), trabajo en el departamento de Inmunologia del Instituto de Investigaciones Biomedicas. Actualmente mi investigacion se centra en la expansion de celulas aloespecificas in vitro para el tratamiento de pacientes con la necesidad de un trasplante renal. Sin embargo tengo experiencia con temas biologicos como es la autoinmnunidad, immunidad en mucosas como el pulmon o intestino delgado.
+Hola soy Antonio Garcia Espinoza un investigador posdoctoral en el departamento de Inmunologia del Instituto de Investigaciones Biomedicas en la UNAM (Mexico). Actualmente mi investigacion se centra en la expansion de celulas aloespecificas in vitro para el tratamiento de pacientes con la necesidad de un trasplante renal. Gran parte de la investigacion se centra en la migracion de las celulas al trasplante para generar tolerancia al injerto, el cual es vital para que se evite el rechazo agudo y cronico de un trasplante renal. 
+
+Ademas tengo experiencia con temas como la autoinmnunidad, immunidad en mucosas como el pulmon y el intestino delgado. 
 
 
 
-[UNAM][def]
+[UNAM]"https://www.biomedicas.unam.mx"
 
 ## Interes cientifico
 
@@ -26,5 +28,3 @@ Fuera de la Universidad, tengo otras pasiones que incluyen el senderismo, practi
 
 
 Mi frase cientifica favorita es: **"We are not making science for science. We are making science for the benefit of humanity" ~Francoise Barre-Sinoussi**
-
-[def]: "https://www.biomedicas.unam.mx"

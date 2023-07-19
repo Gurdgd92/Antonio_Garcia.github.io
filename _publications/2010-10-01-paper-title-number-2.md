@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Cytokine profiles and clinical characteristics in primary Sjögren´s syndrome patient groups"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+date: 2020-05
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://www.researchgate.net/profile/Jose-Garcia-Espinoza'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.researchgate.net/profile/Jose-Garcia-Espinoza)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
